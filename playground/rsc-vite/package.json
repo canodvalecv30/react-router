@@ -18,11 +18,11 @@
     "@vitejs/plugin-rsc": "catalog:",
     "cross-env": "^10.1.0",
     "typescript": "catalog:",
-    "vite": "^6.3.0"
+    "vite": "^6.4.5"
   },
   "dependencies": {
     "@remix-run/node-fetch-server": "^0.14.1",
-    "compression": "^1.8.1",
+    "compression": "^1.8.2",
     "express": "^4.22.2",
     "react": "catalog:",
     "react-dom": "catalog:",
