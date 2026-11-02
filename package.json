@@ -91,8 +91,8 @@
     "prompts": "^2.4.2",
     "typedoc": "^0.28.19",
     "typescript": "catalog:",
-    "vite": "^7.0.0",
-    "vitest": "^4.1.7"
+    "vite": "^6.4.5",
+    "vitest": "^5.0.5"
   },
   "engines": {
     "node": ">=22.22.0"

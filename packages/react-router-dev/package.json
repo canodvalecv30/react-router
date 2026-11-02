@@ -135,7 +135,7 @@
     "react-router": "workspace:^",
     "tsdown": "catalog:",
     "typescript": "catalog:",
-    "vite": "^7.0.0",
+    "vite": "^6.4.5",
     "wireit": "catalog:",
     "wrangler": "^4.95.0"
   },
